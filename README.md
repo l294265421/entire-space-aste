@@ -1,5 +1,5 @@
 # entire-space-aste
-Training and evaluating ASTE models on entire-space datasets.
+Training and evaluating Aspect Sentiment Triplet Extraction (ASTE) models on entire-space datasets.
 
 ## Datasets
 - [ASOTE-Data](ASOTE-v2)
