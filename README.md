@@ -1,5 +1,5 @@
 # entire-space-aste
-Training and evaluating Aspect Sentiment Triplet Extraction (ASTE) models on entire-space datasets.
+The code and data for the paper "[A Better Choice: Entire-space Datasets for Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2212.09052)"
 
 ## Datasets
 - [ASOTE-Data](ASOTE-v2)
