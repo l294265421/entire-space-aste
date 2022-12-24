@@ -13,3 +13,13 @@ The code and data for the paper "[A Better Choice: Entire-space Datasets for Asp
 - [GTS-BiLSTM, GTS-CNN, GTS-BERT](entire-space-aste-experiments/GTS)
 - [Span-BiLSTM, Span-BERT](entire-space-aste-experiments/Span-ASTE)
 - [PBF-BERT](https://github.com/l294265421/ASOTE)
+
+## Citation
+```
+@article{li2022better,
+  title={A Better Choice: Entire-space Datasets for Aspect Sentiment Triplet Extraction},
+  author={Li, Yuncong and Wang, Fang and Zhong, Sheng-Hua},
+  journal={arXiv preprint arXiv:2212.09052},
+  year={2022}
+}
+```
